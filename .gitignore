@@ -1,0 +1,9 @@
+node_modules/
+data/
+.env
+*.log
+.claude/
+transfer.py
+restart.py
+check_logs.py
+push_and_deploy.py

@@ -1,0 +1,19 @@
+{
+  "name": "community-bot",
+  "version": "1.0.0",
+  "description": "Feature-rich Discord community bot with Firefli integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
+  }
+}
